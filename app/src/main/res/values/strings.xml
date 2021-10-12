@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TvMaze</string>
+
+    <string name="dot_separator" translatable="false">•</string>
+    <string name="genre">Genre</string>
+    <string name="summary">Summary</string>
+    <string name="visit_website">Visit Website</string>
+</resources>
